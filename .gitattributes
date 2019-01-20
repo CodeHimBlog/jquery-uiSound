@@ -1,3 +1,4 @@
 * text=auto
 *.css linguist-vendored
 *.html linguist-vendored
+*.js = auto 
