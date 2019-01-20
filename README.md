@@ -1,9 +1,9 @@
 # Play sound effect on click, hover, typing and more with jquery-uiSound
 Play sound effects on different events including typing, click, hover, slide and much more. <br>
-Browse: [uiSound examples](https://codehimblog.github.io/jquery-uisound) <br>
+Browse: [uiSound examples](https://codehimblog.github.io/jquery-uiSound/) <br>
 
 ## How to use 
-You can trigger sound effect on any event (including custom events) and in any jQuery function. There is the same method to initialize the uiSound plugin inside the various types of functions. 
+You can trigger sound effect on any event (including custom events) and in any jQuery function. There is the same method to initialize the uiSound plugin inside the functions. 
 The method is:
 <pre>
 $(this).uiSound({play: "sound-name"});
